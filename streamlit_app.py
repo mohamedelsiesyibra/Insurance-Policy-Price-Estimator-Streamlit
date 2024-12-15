@@ -139,3 +139,7 @@ if submit_button:
 
     # Display the prediction result
     st.success(f"Estimated Yearly Policy Price: {prediction:.2f}")
+
+
+st.markdown("---")
+st.markdown("**Developed by: Mohamed Elsiesy**")
